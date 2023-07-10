@@ -7,25 +7,33 @@
     <style>
     body {
         background-color: #e6e6fa;
+        display: flex;
+        align-items: center;
+        justify-content: center;
     }
     
     h1 {
         color: #9370db;
+        text-align: center;
     }
 
     input[type="text"] {
         background-color: #d8bfd8; 
         padding: 5px; 
+        display: block;
     }
     
     #output {
         background-color: #e0b0ff; 
         padding: 15px; 
+        text-align: center;
     }
     
     .div {
         background-color: #e0b0ff; 
         padding: 20px; 
+        text-align: center;
+        margin-top: 10px;
     }
 </style>
 </head>
