@@ -7,9 +7,9 @@
     <style>
     body {
         background-color: #e6e6fa;
-        display: flex;
         align-items: center;
         justify-content: center;
+        text-align: center;
     }
     
     h1 {
@@ -19,8 +19,9 @@
 
     input[type="text"] {
         background-color: #d8bfd8; 
-        padding: 5px; 
-        display: block;
+        padding: 5px;
+        text-align: center; 
+
     }
     
     #output {
